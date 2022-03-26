@@ -7,7 +7,7 @@
     ],
     "success_url": "https://t.me/MeshBots",
     "website": "https://github.com/yash-dk/Mesh-RenameBot",
-    "repository": "https://github.com/sherlocksha1/Mesh-RenameBot",
+    "repository": "https://github.com/sherlocksha1/RenameBotmesh",
     "stack": "heroku-20",
     "env": {
         "API_HASH": {
